@@ -1,7 +1,8 @@
 # Heya, 
     There is Arjun!! 🤞✨
+ 
+[a link](https://github.com/Arjunvankani/README.md/blob/main/github.png)
 
-[a link] (https://github.com/Arjunvankani/README.md/blob/main/github.png)
 # About
 
 Currently pursueing Computer Engginerring😵
