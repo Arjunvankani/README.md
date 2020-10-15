@@ -1,4 +1,4 @@
-# Heya 🤙, <a href="https://twitter.com/https://twitter.com/ArjunVankani"><img align="left" alt="Arjun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/arjun-vankani-8787931b1/"><img align="left" alt="Arjun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://github.com/Arjunvankani"><img align="left" alt="Arjun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><a href="https://instagram.com/_arjun_vankani"> <img align="left" alt="Arjun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://github.com/Arjunvankani"><center> <img src="https://github.com/Arjunvankani/README.md/blob/main/github.png" /></center></a>
+# Heya 🤙, 
     There is Arjun!! 🤞✨ 
 
 # About
@@ -9,7 +9,7 @@ Intersting in Machine Learning & Artificial Inteligent & Deep Learning 😬
 
 Wanna learn new Techlogies & Software 💻
 <br/>
-
+<a href="https://twitter.com/https://twitter.com/ArjunVankani"><img align="left" alt="Arjun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/arjun-vankani-8787931b1/"><img align="left" alt="Arjun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://github.com/Arjunvankani"><img align="left" alt="Arjun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><a href="https://instagram.com/_arjun_vankani"> <img align="left" alt="Arjun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://github.com/Arjunvankani"><center> <img src="https://github.com/Arjunvankani/README.md/blob/main/github.png" /></center></a>
 # Working With Technologies 🤩🤩
 
 <a href="https://github.com/Arjunvankani"><center>
