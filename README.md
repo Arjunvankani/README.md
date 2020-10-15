@@ -18,7 +18,7 @@ Wanna learn new Technology & Software 💻
 <br><br>
 <a href="https://github.com/Arjunvankani">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunvankani&theme=radical&hide=glsl" />
-</a>
+</a><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Arjunvankani&&show_icons=true&theme=radical&line_height=27&v=5" alt="arjun's GitHub Stats" />
 
 
