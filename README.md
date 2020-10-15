@@ -18,8 +18,8 @@ Wanna learn new Techlogies & Software 💻
 # Working With Technologies 🤩🤩
 
 
-Web Devlopment [ PHP + HTML + CSS + JavaScript ]  <br/>
-               [ Nodejs + MongoDb + Reactnative ]<br/>
+Web Devlopment [ PHP + HTML + CSS + JavaScript ] <br>
+               [ Nodejs + MongoDb + Reactnative ]<br>
                [ Django + Postgrate ] <br/>
                [ Flask ]         <br/>
                
