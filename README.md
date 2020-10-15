@@ -2,9 +2,9 @@
     There is Arjun!! 🤞✨
  
 
-<center><a href="https://github.com/Arjunvankani">
-  <img src="https://github.com/Arjunvankani/README.md/blob/main/github.png" />
-</a><center>
+<a href="https://github.com/Arjunvankani"><center>
+  <img src="https://github.com/Arjunvankani/README.md/blob/main/github.png" /></center>
+</a>
 
 # About
 
@@ -14,75 +14,77 @@ Intersting in Machine Learning & Artificial Inteligent & Deep Learning 😬
 
 Wanna learn new Techlogies & Software 💻
 <br/>
+
 # Working With Technologies 🤩🤩
 
 
-Web Devlopment [ PHP + HTML + CSS + JavaScript ]  
-               [ Nodejs + MongoDb + Reactnative ]
-               [ Django + Postgrate ] 
-               [ Flask ]         
+Web Devlopment [ PHP + HTML + CSS + JavaScript ]  <br/>
+               [ Nodejs + MongoDb + Reactnative ]<br/>
+               [ Django + Postgrate ] <br/>
+               [ Flask ]         <br/>
                
-App Devlopment [ Android + firebase]  
-               [ Flutter ]         
-               [ Ionic ]          
-               [ Java Application ]   
-<br/>               
-Python Devlopment [ Django ]
-                  [ Flask ]
-                  [ PyQt ]
-                  [ Tkinter ]
-                  [ Speech_recognization ]
-                  [ Numpy ]
-                  [ Pandas ]
-                  [ Streamlit ]
-<br/>
+ <br/> <br/>
+App Devlopment [ Android + firebase]  <br/>
+               [ Flutter ]         <br/>
+               [ Ionic ]          <br/>
+               [ Java Application ] <br/>  
+<br/>      <br/>         
+Python Devlopment [ Django ]    <br/>
+                  [ Flask ]     <br/>
+                  [ PyQt ]      <br/>
+                  [ Tkinter ]   <br/>
+                  [ Speech_recognization ]  <br/>
+                  [ Numpy ] <br/>
+                  [ Pandas ]    <br/>
+                  [ Streamlit ] <br/>
+<br/><br/>
 
-Data Science [ Numpy ]
-             [ Pandas ]
-             [ Jupyter ]
-             [ Scipy ]
-             [ SckitLearn ]
-             [ Tensorflow ]
-             [ Keras + Pytorch]
+Data Science [ Numpy ]  <br/>
+             [ Pandas ] <br/>
+             [ Jupyter ]    <br/>
+             [ Scipy ]  <br/>
+             [ SckitLearn ] <br/>
+             [ Tensorflow ] <br/>
+             [ Keras + Pytorch] <br/>
          
-<br/>         
-Computer Vision [ Opencv ]
-                [ Matlab ]
+<br/>         <br/>
+Computer Vision [ Opencv ]  <br/>
+                [ Matlab ]  <br/>
 
-<br/>
-Networking  [ Wireshark ]
-            [ Namp & Zmap ]
-            [ Cisco ]
-            [ Socket (Client-Server) ]
+<br/><br/>
+Networking  [ Wireshark ]   <br/>
+            [ Namp & Zmap ] <br/>
+            [ Cisco ]   <br/>
+            [ Socket (Client-Server) ]  <br/>
          
-<br/>         
-Visulazation [ Plotly ]
-             [ Matplotlib ]
-             [ Seaborn ]
-             [ Bokeh ] 
-             [ folium ]
+<br/>         <br/>
+Visulazation [ Plotly ] <br/>
+             [ Matplotlib ] <br/>
+             [ Seaborn ]    <br/>
+             [ Bokeh ]  <br/>
+             [ folium ]  <br/>
          
-<br/>         
-Softwere  [ Arduino ] 
-          [ Tableau ]
-          [ R Studio]
-          [ Elastic ]
-          [ Rapid Minar ]
-          [ Orange ]
-          [ UI Path ]
+<br/>     <br/>    
+Softwere  [ Arduino ]  <br/>
+          [ Tableau ]  <br/>
+          [ R Studio]  <br/>
+          [ Elastic ]  <br/>
+          [ Rapid Minar ]  <br/>
+          [ Orange ]   <br/>
+          [ UI Path ]   <br/>
         
-<br/>        
-Language [ C & C + +]
-         [ Java ]
-         [ Python3 ]
-         [ HTML & CSS & JS ]
-         [ PHP ]
-         [ GO ]
-         [ C # ]
-         [ Julia ]
-         [ R ]
-         [ Ruby ]
-         
+<br/>        <br/>
+Language [ C & C + +]  <br/>
+         [ Java ]   <br/>
+         [ Python3 ]   <br/>
+         [ HTML & CSS & JS ]    <br/>
+         [ PHP ]    <br/>
+         [ GO ]   <br/>
+         [ C # ]   <br/>
+         [ Julia ]  <br/>
+         [ R ]   <br/>
+         [ Ruby ]   <br/>
+         <br/><br/> 
 <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
