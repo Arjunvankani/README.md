@@ -17,6 +17,9 @@ Wanna learn new Techlogies & Software 💻
 
 # Working With Technologies 🤩🤩
 
+<a href="https://github.com/Arjunvankani"><center>
+  <img src="https://github.com/Arjunvankani/README.md/blob/main/work1.png" /></center>
+</a>
 
 Web Devlopment  <br/>
                [ PHP + HTML + CSS + JavaScript ] <br/>
@@ -94,11 +97,7 @@ Language    <br/>
          [ R ]   <br/>
          [ Ruby ]   <br/>
          <br/><br/> 
-<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jupyter.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/flask.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+##  CONTACT Me 
+[![Twitter Badge]](https://twitter.com/ArjunVankani)<br> [![Linkedin Badge]](https://www.linkedin.com/in/arjun-vankani-8787931b1/) <br>[![Gmail Badge]](mailto:vankaniarjun0103@gmail.com) [![Instagram Badge]](https://www.instagram.com/_arjun_vankani/)
