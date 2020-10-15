@@ -18,18 +18,21 @@ Wanna learn new Techlogies & Software 💻
 # Working With Technologies 🤩🤩
 
 
-Web Devlopment [ PHP + HTML + CSS + JavaScript ] <br>
-               [ Nodejs + MongoDb + Reactnative ]<br>
+Web Devlopment  <br/>
+               [ PHP + HTML + CSS + JavaScript ] <br/>
+               [ Nodejs + MongoDb + Reactnative ]<br/>
                [ Django + Postgrate ] <br/>
                [ Flask ]         <br/>
                
  <br/> <br/>
-App Devlopment [ Android + firebase]  <br/>
+App Devlopment   <br/>
+               [ Android + firebase]  <br/>
                [ Flutter ]         <br/>
                [ Ionic ]          <br/>
                [ Java Application ] <br/>  
 <br/>      <br/>         
-Python Devlopment [ Django ]    <br/>
+Python Devlopment <br/>
+                  [ Django ]    <br/>
                   [ Flask ]     <br/>
                   [ PyQt ]      <br/>
                   [ Tkinter ]   <br/>
@@ -39,7 +42,8 @@ Python Devlopment [ Django ]    <br/>
                   [ Streamlit ] <br/>
 <br/><br/>
 
-Data Science [ Numpy ]  <br/>
+Data Science<br/>
+             [ Numpy ]  <br/>
              [ Pandas ] <br/>
              [ Jupyter ]    <br/>
              [ Scipy ]  <br/>
@@ -48,24 +52,28 @@ Data Science [ Numpy ]  <br/>
              [ Keras + Pytorch] <br/>
          
 <br/>         <br/>
-Computer Vision [ Opencv ]  <br/>
+Computer Vision <br/>
+                [ Opencv ]  <br/>
                 [ Matlab ]  <br/>
 
 <br/><br/>
-Networking  [ Wireshark ]   <br/>
+Networking <br/>
+            [ Wireshark ]   <br/>
             [ Namp & Zmap ] <br/>
             [ Cisco ]   <br/>
             [ Socket (Client-Server) ]  <br/>
          
 <br/>         <br/>
-Visulazation [ Plotly ] <br/>
+Visulazation <br/>
+             [ Plotly ] <br/>
              [ Matplotlib ] <br/>
              [ Seaborn ]    <br/>
              [ Bokeh ]  <br/>
              [ folium ]  <br/>
          
 <br/>     <br/>    
-Softwere  [ Arduino ]  <br/>
+Softwere  <br/>
+          [ Arduino ]  <br/>
           [ Tableau ]  <br/>
           [ R Studio]  <br/>
           [ Elastic ]  <br/>
@@ -74,7 +82,8 @@ Softwere  [ Arduino ]  <br/>
           [ UI Path ]   <br/>
         
 <br/>        <br/>
-Language [ C & C + +]  <br/>
+Language    <br/>
+         [ C & C + +]  <br/>
          [ Java ]   <br/>
          [ Python3 ]   <br/>
          [ HTML & CSS & JS ]    <br/>
