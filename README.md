@@ -28,83 +28,16 @@ Wanna learn new Technology & Software 💻
   <img src="https://github.com/Arjunvankani/README.md/blob/main/work1.png" /></center>
 </a>
 
-Web Devlopment  <br/>
-               [ PHP + HTML + CSS + JavaScript ] <br/>
-               [ Nodejs + MongoDb + Reactnative ]<br/>
-               [ Django + Postgrate ] <br/>
-               [ Flask ]         <br/>
+Web Devlopment  <br/><br/> 
                
- <br/> <br/>
-App Devlopment   <br/>
-               [ Android + firebase]  <br/>
-               [ Flutter ]         <br/>
-               [ Ionic ]          <br/>
-               [ Java Application ] <br/>  
-<br/>      <br/>         
-Python Devlopment <br/>
-                  [ Django ]    <br/>
-                  [ Flask ]     <br/>
-                  [ PyQt ]      <br/>
-                  [ Tkinter ]   <br/>
-                  [ Speech_recognization ]  <br/>
-                  [ Numpy ] <br/>
-                  [ Pandas ]    <br/>
-                  [ Streamlit ] <br/>
-<br/><br/>
+App Devlopment   <br/><br/> 
+                       
+Python Devlopment <br/><br/>
 
-Data Science<br/>
-             [ Numpy ]  <br/>
-             [ Pandas ] <br/>
-             [ Jupyter ]    <br/>
-             [ Scipy ]  <br/>
-             [ SckitLearn ] <br/>
-             [ Tensorflow ] <br/>
-             [ Keras + Pytorch] <br/>
-         
-<br/>         <br/>
-Computer Vision <br/>
-                [ Opencv ]  <br/>
-                [ Matlab ]  <br/>
+Data Science <br/><br/>
 
-<br/><br/>
-Networking <br/>
-            [ Wireshark ]   <br/>
-            [ Namp & Zmap ] <br/>
-            [ Cisco ]   <br/>
-            [ Socket (Client-Server) ]  <br/>
-         
-<br/>         <br/>
-Visulazation <br/>
-             [ Plotly ] <br/>
-             [ Matplotlib ] <br/>
-             [ Seaborn ]    <br/>
-             [ Bokeh ]  <br/>
-             [ folium ]  <br/>
-         
-<br/>     <br/>    
-Softwere  <br/>
-          [ Arduino ]  <br/>
-          [ Tableau ]  <br/>
-          [ R Studio]  <br/>
-          [ Elastic ]  <br/>
-          [ Rapid Minar ]  <br/>
-          [ Orange ]   <br/>
-          [ UI Path ]   <br/>
-        
-<br/>        <br/>
-Language    <br/>
-         [ C & C + +]  <br/>
-         [ Java ]   <br/>
-         [ Python3 ]   <br/>
-         [ HTML & CSS & JS ]    <br/>
-         [ PHP ]    <br/>
-         [ GO ]   <br/>
-         [ C # ]   <br/>
-         [ Julia ]  <br/>
-         [ R ]   <br/>
-         [ Ruby ]   <br/>
-         <br/><br/> 
-
+Computer Vision <br/><br/>
+       
 
 
 
